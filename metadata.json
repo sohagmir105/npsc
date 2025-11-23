@@ -1,0 +1,5 @@
+{
+  "name": "NeonKey Identity",
+  "description": "A modern, glassmorphic secure identity generator that creates realistic US names and cryptographically strong passwords derived from them.",
+  "requestFramePermissions": []
+}
